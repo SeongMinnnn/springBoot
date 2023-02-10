@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ad72627ade285a4e",
+        "id": "56e2c731c3dc232b",
         "type": "tabs",
         "children": [
           {
-            "id": "d3f997d375912113",
+            "id": "43669bbf744d0a53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bean/2. 숙련주차/2. MySelectShop/Prepare.md",
+                "file": "Bean/2. 숙련주차/4. Refactoring/4. 스프링 IoC 컨테이너 사용하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b68affe8d9228e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bean/2. 숙련주차/5. Auth/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bean/2. 숙련주차/2. MySelectShop/Prepare.md",
+                "file": "Bean/2. 숙련주차/5. Auth/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bean/2. 숙련주차/2. MySelectShop/Prepare.md",
+                "file": "Bean/2. 숙련주차/5. Auth/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bean/2. 숙련주차/2. MySelectShop/Prepare.md"
+                "file": "Bean/2. 숙련주차/5. Auth/무제 파일.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d3f997d375912113",
+  "active": "f70281a0bd32ed91",
   "lastOpenFiles": [
+    "Bean/2. 숙련주차/4. Refactoring/4. 스프링 IoC 컨테이너 사용하기.md",
+    "Bean/2. 숙련주차/4. Refactoring/1. AllInOneController 역할 분리.md",
+    "Bean/2. 숙련주차/4. Refactoring/2. AllInOneController의 코드 분리.md",
+    "Bean/2. 숙련주차/4. Refactoring/3. DI(의존성 주입)의 이해.md",
     "Bean/2. 숙련주차/1. JPA 심화/1. 영속성 컨텍스트.md",
-    "Bean/2. 숙련주차/1. JPA 심화/2. Entity Mapping 심화.md",
+    "Bean/2. 숙련주차/3. AllInOneController/2. AllInOneController.md",
+    "Bean/2. 숙련주차/3. AllInOneController/1.Product 설계.md",
     "Bean/2. 숙련주차/2. MySelectShop/Prepare.md",
-    "첨부사진 Bean/JPA를 사용하지 않았을 때 구조.jpg",
-    "Toby/10. 스프링 부트 자세히 살펴보기.md",
-    "첨부사진 Toby/자동 구성 종류별 구분.jpg",
-    "Toby/9. Spring JDBC 자동 구성 개발.md",
-    "Toby/8. 외부 설정을 활용하는 자동 구성.md",
-    "첨부사진 Toby/자동 구성정보를 사용자 구성정보로 대체하는 구조.jpg",
-    "Toby/7. 조건부 자동 구성.md"
+    "Bean/2. 숙련주차/1. JPA 심화/2. Entity Mapping 심화.md",
+    "첨부사진 Bean/Controller 역할 예시.png"
   ]
 }
